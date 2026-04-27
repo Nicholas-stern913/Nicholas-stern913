@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey! 👋
 
-<!--
-**Nicholas-stern913/Nicholas-stern913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Nicholas-stern913**, a newbie.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Goal: ship something useful every week
+- 🌱 Always learning new things
+- 🧠 Lifelong learner
+
+## Tech
+
+`Express` `Protobuf` `Echo` `Django`
+
+---
+
+_Love a good rubber duck._
